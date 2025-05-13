@@ -6,9 +6,9 @@ function App() {
   return (
     <div className="container">
       <h1>Cloud Computing Lab 12</h1>
-      <h2>Muhammad Sulaiman</h2>
-      <p>Instructor:  Nouman  </p>
-      {/* <h2>Adil Khan</h2> */}
+      {/* <h2>Muhammad Sulaiman</h2> */}
+      {/* <p>Instructor:  Nouman  </p> */}
+      <h2>Adil Khan</h2>
       {/* <h2>Irfan Zeerak</h2> */}
       {/* <h2>Sikander Afridi</h2> */}
       {/* <h2>Mudassir Ajmal</h2> */}
